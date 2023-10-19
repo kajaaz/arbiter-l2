@@ -1,6 +1,6 @@
 import angr
 from capstone.x86 import *
-from angr import archinfo
+import archinfo
 from archinfo.arch_x86 import ArchX86
 from archinfo.arch_amd64 import ArchAMD64
 
