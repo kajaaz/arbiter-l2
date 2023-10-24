@@ -1,3 +1,6 @@
 [submodule "op-geth"]
 	path = op-geth
 	url = git@github.com:ethereum-optimism/op-geth.git
+[submodule "zstd-xplt"]
+	path = zstd-xplt
+	url = git@github.com:kajaaz/zstd-xplt.git
