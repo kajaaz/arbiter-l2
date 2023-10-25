@@ -4,3 +4,6 @@
 [submodule "zstd-xplt"]
 	path = zstd-xplt
 	url = git@github.com:kajaaz/zstd-xplt.git
+[submodule "tests-bin-dataset"]
+	path = tests-bin-dataset
+	url = git@github.com:kajaaz/tests-bin-dataset.git
