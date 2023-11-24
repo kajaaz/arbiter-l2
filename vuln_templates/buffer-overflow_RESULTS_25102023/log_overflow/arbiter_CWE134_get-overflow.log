@@ -1,0 +1,42 @@
+2023-10-25 13:41:24,508 - arbiter.master_chief.sa_recon - DEBUG - Creating CFG
+2023-10-25 13:41:24,612 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x401000
+2023-10-25 13:41:24,612 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x401020
+2023-10-25 13:41:24,612 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x40102d
+2023-10-25 13:41:24,612 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x401030
+2023-10-25 13:41:24,612 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x40103f
+2023-10-25 13:41:24,612 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x401040
+2023-10-25 13:41:24,612 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x40104f
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x401050
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x40105f
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x401060
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x401070
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x401080
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x401090
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x4010a0
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x4010c5
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x4010c6
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x4010d0
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x4010f9
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x401100
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x401139
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x401140
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x401175
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x401179
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x401180
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x401189
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - DEBUG - Adding target function vulnerable_function:0x401189
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x4011d3
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x4011ec
+2023-10-25 13:41:24,613 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x500000
+2023-10-25 13:41:24,614 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x500008
+2023-10-25 13:41:24,614 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x500010
+2023-10-25 13:41:24,614 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x500018
+2023-10-25 13:41:24,614 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x601050
+2023-10-25 13:41:24,614 - arbiter.master_chief.sa_recon - INFO - Starting recon of 0x601058
+2023-10-25 13:41:24,614 - arbiter.master_chief.sa_advanced - DEBUG - Analysis of function @ 0x401189
+2023-10-25 13:41:24,614 - arbiter.master_chief.sa_advanced - DEBUG - Creating CFGEmulated for function @ 0x401189
+2023-10-25 13:41:24,637 - arbiter.master_chief.sa_advanced - DEBUG - Creating DDG for function @ 0x401189 (call_depth=1)
+2023-10-25 13:41:24,640 - arbiter.master_chief.sa_advanced - DEBUG - Creating CDG for function @ 0x401189
+2023-10-25 13:41:24,641 - arbiter.master_chief.sa_advanced - DEBUG - Starting back tracking for 0x4011b5
+2023-10-25 13:41:24,641 - arbiter.master_chief.sa_advanced - ERROR - Got constant value
+2023-10-25 13:41:24,641 - arbiter.master_chief.sa_advanced - INFO - No valid sinks in function @ 0x401189

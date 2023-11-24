@@ -7,3 +7,9 @@
 [submodule "tests-bin-dataset"]
 	path = tests-bin-dataset
 	url = git@github.com:kajaaz/tests-bin-dataset.git
+[submodule "buggy-op-geth"]
+	path = buggy-op-geth
+	url = git@github.com:kajaaz/buggy-op-geth.git
+[submodule "buggy-optimism"]
+	path = buggy-optimism
+	url = git@github.com:kajaaz/buggy-optimism.git
